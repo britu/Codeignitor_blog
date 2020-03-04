@@ -1,4 +1,4 @@
-###uplaod file Default syntax put config option
+##uplaod file Default syntax put config option
 
 $config['upload_path'] = './assets/images/posts';
 
