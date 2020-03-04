@@ -1,4 +1,4 @@
-//uplaod file Default syntax put config option
+**uplaod file Default syntax put config option
 
 $config['upload_path'] = './assets/images/posts';
 
@@ -11,11 +11,11 @@ form image name must be userfile
 
 
 
-//trunk the word
-	* autoload helper ('text')
+**trunk the word
+	autoload helper ('text')
 	 - function called word_limiter('parameters', 50);
 
-//to get permission for file
+**to get permission for file
 	- go to command controll and
 		sudo chmod 777 htdocs/CI_collection/ci_blog/assets/images/posts
 ** Database syntax
